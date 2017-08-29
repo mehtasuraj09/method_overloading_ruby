@@ -1,4 +1,4 @@
-# method_overloading_ruby
+# Method Overloading in Ruby
 # How to achieve method overloading in Ruby.
 
 Normal way of method overloading is not supported in Ruby. We take array as an argument with dynamic number of values. 
